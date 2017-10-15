@@ -1,4 +1,4 @@
 # README
 
-#Class bounce project
-#All rights reserved to Classbounce © 
+Class bounce project
+All rights reserved to Classbounce © 
